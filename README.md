@@ -1,7 +1,9 @@
 ![Welcome Banner](banner.gif)
 
 
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
+
+
+<br/>
 
 <h3> 👨: &nbsp;About Me </h3>
 
@@ -72,7 +74,6 @@ Libraries Utilized: Scikit-Learn, Pandas, Hyperopt, Numpy, Matplotlib, Scipy
 
 <a align= "center" href="https://github.com/dataonatangent">
   <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 </p>
 <br/>
