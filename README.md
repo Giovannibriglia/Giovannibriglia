@@ -7,9 +7,10 @@
 
 <h3> 👨: &nbsp;About Me </h3>
 
-- 😄 Pronouns: He/Him 
+- 😄 Male, 24 y/o, italian
+- 👔 I'm currently working at University of Modena and Reggio Emilia
 - 🔭 I’m currently working on: Causal (Deep) Reinforcemnt Learning in multi-agent scenarios
-- :heart: My favorite language: Python
+- ⚡ My favorite language: Python
 - 🌱 I’m currently learning: linux, bash and unix usage
 - 👯 I’m always looking to collaborate with AI researchers
 - 💬 Ask me about: anything, I am happy to help
