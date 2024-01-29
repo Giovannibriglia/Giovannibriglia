@@ -71,18 +71,3 @@ Libraries Utilized: Scikit-Learn, Pandas, Hyperopt, Numpy, Matplotlib, Scipy
 
 <br/> 
 <p>
-
-<a align= "center" href="https://github.com/dataonatangent">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true&count_private=true" />
-
-</p>
-<br/>
-
-<p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
-</p>
-
------
-Credit: [Jiji C.](https://github.com/DataOnATangent)
-
-Last edited on: 06/03/2021
