@@ -9,12 +9,9 @@
 
 - 😄 Male, 24 y/o, italian
 - 👔 I'm currently working at University of Modena and Reggio Emilia
-- 🔭 I’m currently working on: Causal (Deep) Reinforcemnt Learning in multi-agent scenarios
-- ⚡ My favorite language: Python
-- 🌱 I’m currently learning: linux, bash and unix usage
+- 🔭 I’m currently working on Causal (Deep) Reinforcemnt Learning in multi-agent scenarios
+- ⚡ My favorite languages: Python, C/C++, Matlab, Rapid
 - 👯 I’m always looking to collaborate with AI researchers
-- 💬 Ask me about: anything, I am happy to help
-- 💜 Interests: coding, environment, travelling, food, soccer
 
 <br/>
 
