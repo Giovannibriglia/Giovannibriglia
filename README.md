@@ -61,7 +61,7 @@ Libraries Utilized: Scikit-Learn, Pandas, Hyperopt, Numpy, Matplotlib, Scipy
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/giovanni-briglia-929a20200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://scholar.google.it/citations?user=p9e44eoAAAAJ&hl=it"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="GoogleScholar" /></a>&nbsp;
+<a href="https://scholar.google.it/citations?hl=it&authuser=2&user=92lmnVkAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="GoogleScholar" /></a>&nbsp;
 <a href="mailto:giovannibriglia@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://Giovannibriglia.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2FGiovannibriglia.github.io%2F"></a>-->
 </p>
