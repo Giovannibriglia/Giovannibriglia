@@ -8,7 +8,7 @@
 <h3> 👨: &nbsp;About Me </h3>
 
 - 😄 Male, 24 y/o, italian
-- 👔 I'm currently working at University of Modena and Reggio Emilia
+- 👔 I'm currently working at [Distributed and Pervasive Intelligence Group](https://dipi-unimore.netlify.app/) at [University of Modena and Reggio Emilia](https://www.unimore.it/)
 - 🔭 I’m currently working on Causal (Deep) Reinforcemnt Learning in multi-agent scenarios
 - 👯 I’m always looking to collaborate with AI researchers
 
