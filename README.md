@@ -39,8 +39,8 @@
 <p>
 
 ## 📝 Recent Projects
-### [Generalisable Improvement to Q-Learning Exploration with Causal Models of "Core" Environment Mechanics : ](https://github.com/Giovannibriglia/AgentGroup_CausalRL)<br>
-In progress . <br>
+### [Improving Reinforcement Learning Exploration with Causal Models of Core Environment Dynamics : ](https://github.com/Giovannibriglia/AgentGroup_CausalRL)<br>
+Submitted to ECAI . <br>
 Libraries Utilized: Gymnasium, Pandas, CausalNex, Numpy, Matplotlib
 
 ### [ Bearing Fault Detection and Recognition from Supply Currents with Decision Trees : ](https://github.com/Giovannibriglia/Bearing-fault-detection-and-recognition-from-supply-currents-with-decision-trees)<br>
