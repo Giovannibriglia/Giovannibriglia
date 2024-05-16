@@ -39,14 +39,17 @@
 <p>
 
 ## 📝 Recent Projects
+### [Causal Reinfocement Learning in Gymnasium Environments: ](https://github.com/Giovannibriglia/CD_for_gymnasium)<br>
+In progress for AAAI . <br>
+Libraries Utilized: Gymnasium, Stable-Baselines3, Torch, CausalNex, Numpy, Matplotlib
+
 ### [Improving Reinforcement Learning Exploration with Causal Models of Core Environment Dynamics : ](https://github.com/Giovannibriglia/AgentGroup_CausalRL)<br>
 Submitted to ECAI . <br>
-Libraries Utilized: Gymnasium, Pandas, CausalNex, Numpy, Matplotlib
+Libraries Utilized: Gymnasium, Pandas, CausalNex, Torch, Numpy, Matplotlib
 
 ### [ Bearing Fault Detection and Recognition from Supply Currents with Decision Trees : ](https://github.com/Giovannibriglia/Bearing-fault-detection-and-recognition-from-supply-currents-with-decision-trees)<br>
 https://ieeexplore.ieee.org/abstract/document/10376052 . <br>
 Libraries Utilized: Scikit-Learn, Pandas, Hyperopt, Numpy, Matplotlib, Scipy
-
 
 ### [ Cross Load Generalization of Bearing Fault Recognition with Decision Trees: ](https://github.com/Giovannibriglia/Cross-Load-Generalization-of-Bearing-Fault-Recognition-with-Decision-Trees)<br>
 https://ieeexplore.ieee.org/abstract/document/10381353 .<br>
