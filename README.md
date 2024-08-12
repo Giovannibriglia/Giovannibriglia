@@ -1,9 +1,8 @@
-![Welcome Banner](banner.gif)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovannibriglia&show_icons=true&theme=radical)
 
 <!--
-
+![Welcome Banner](banner.gif)
 
 <br/>
 
